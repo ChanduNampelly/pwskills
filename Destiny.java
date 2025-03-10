@@ -2,12 +2,11 @@ class path
 {
   void travel()
 {
-//code
+//code Syso("Everythin is ok");
 }
  void travel()
 {
-//code
-}
+//code//code Syso("Everythin is ok");
 
 
 }
